@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\bin\Debug\Section 8 Working with Text.exe.config
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\bin\Debug\Section 8 Working with Text.exe
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\bin\Debug\Section 8 Working with Text.pdb
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\obj\Debug\Section 8 Working with Text.csprojResolveAssemblyReference.cache
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\obj\Debug\Section 8 Working with Text.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\obj\Debug\Section 8 Working with Text.exe
+C:\C_sharp_projects\Section 8 Working with Text\Section 8 Working with Text\obj\Debug\Section 8 Working with Text.pdb

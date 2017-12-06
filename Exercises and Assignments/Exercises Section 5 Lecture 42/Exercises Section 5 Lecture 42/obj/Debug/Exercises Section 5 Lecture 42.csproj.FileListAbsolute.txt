@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\bin\Debug\Exercises Section 5 Lecture 42.exe.config
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\bin\Debug\Exercises Section 5 Lecture 42.exe
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\bin\Debug\Exercises Section 5 Lecture 42.pdb
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\obj\Debug\Exercises Section 5 Lecture 42.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\obj\Debug\Exercises Section 5 Lecture 42.exe
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\obj\Debug\Exercises Section 5 Lecture 42.pdb
+C:\C_sharp_projects\Exercises Section 5 Lecture 42\Exercises Section 5 Lecture 42\obj\Debug\Exercises Section 5 Lecture 42.csprojResolveAssemblyReference.cache

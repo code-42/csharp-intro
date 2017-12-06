@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\bin\Debug\Section 7 Working with Dates.exe.config
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\bin\Debug\Section 7 Working with Dates.exe
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\bin\Debug\Section 7 Working with Dates.pdb
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\obj\Debug\Section 7 Working with Dates.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\obj\Debug\Section 7 Working with Dates.exe
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\obj\Debug\Section 7 Working with Dates.pdb
+C:\C_sharp_projects\Section 7 Working with Dates\Section 7 Working with Dates\obj\Debug\Section 7 Working with Dates.csprojResolveAssemblyReference.cache

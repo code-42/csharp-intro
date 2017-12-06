@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\bin\Debug\Exercises Section 9 Lecture 75.exe.config
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\bin\Debug\Exercises Section 9 Lecture 75.exe
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\bin\Debug\Exercises Section 9 Lecture 75.pdb
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\obj\Debug\Exercises Section 9 Lecture 75.csprojResolveAssemblyReference.cache
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\obj\Debug\Exercises Section 9 Lecture 75.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\obj\Debug\Exercises Section 9 Lecture 75.exe
+C:\C_sharp_projects\Exercises Section 9 Lecture 75\Exercises Section 9 Lecture 75\obj\Debug\Exercises Section 9 Lecture 75.pdb

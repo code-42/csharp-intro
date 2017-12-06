@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 4 Non-Primitive Types", "Section 4 Non-Primitive Types\Section 4 Non-Primitive Types.csproj", "{6DF206FF-4DB2-4045-93FC-A1BE919A38FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF206FF-4DB2-4045-93FC-A1BE919A38FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF206FF-4DB2-4045-93FC-A1BE919A38FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF206FF-4DB2-4045-93FC-A1BE919A38FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF206FF-4DB2-4045-93FC-A1BE919A38FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA6A02B7-419D-4551-B8C1-0A00209382AB}
+	EndGlobalSection
+EndGlobal

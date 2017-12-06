@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\bin\Debug\Section 9 Working with Files.exe.config
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\bin\Debug\Section 9 Working with Files.exe
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\bin\Debug\Section 9 Working with Files.pdb
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\obj\Debug\Section 9 Working with Files.csprojResolveAssemblyReference.cache
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\obj\Debug\Section 9 Working with Files.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\obj\Debug\Section 9 Working with Files.exe
+C:\C_sharp_projects\Section 9 Working with Files\Section 9 Working with Files\obj\Debug\Section 9 Working with Files.pdb

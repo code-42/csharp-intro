@@ -1,0 +1,6 @@
+C:\C_sharp_projects\Exercises Section 5 Lecture 48\Exercises Section 5 Lecture 48\bin\Debug\Exercises Section 5 Lecture 48.exe.config
+C:\C_sharp_projects\Exercises Section 5 Lecture 48\Exercises Section 5 Lecture 48\bin\Debug\Exercises Section 5 Lecture 48.exe
+C:\C_sharp_projects\Exercises Section 5 Lecture 48\Exercises Section 5 Lecture 48\bin\Debug\Exercises Section 5 Lecture 48.pdb
+C:\C_sharp_projects\Exercises Section 5 Lecture 48\Exercises Section 5 Lecture 48\obj\Debug\Exercises Section 5 Lecture 48.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Exercises Section 5 Lecture 48\Exercises Section 5 Lecture 48\obj\Debug\Exercises Section 5 Lecture 48.exe
+C:\C_sharp_projects\Exercises Section 5 Lecture 48\Exercises Section 5 Lecture 48\obj\Debug\Exercises Section 5 Lecture 48.pdb

@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\bin\Debug\Section 4 Non-Primitive Types.exe.config
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\bin\Debug\Section 4 Non-Primitive Types.exe
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\bin\Debug\Section 4 Non-Primitive Types.pdb
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\obj\Debug\Section 4 Non-Primitive Types.csprojResolveAssemblyReference.cache
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\obj\Debug\Section 4 Non-Primitive Types.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\obj\Debug\Section 4 Non-Primitive Types.exe
+C:\C_sharp_projects\Section 4 Non-Primitive Types\Section 4 Non-Primitive Types\obj\Debug\Section 4 Non-Primitive Types.pdb

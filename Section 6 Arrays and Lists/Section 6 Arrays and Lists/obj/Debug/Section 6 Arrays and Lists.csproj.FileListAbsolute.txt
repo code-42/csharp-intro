@@ -1,0 +1,7 @@
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\bin\Debug\Section 6 Arrays and Lists.exe.config
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\bin\Debug\Section 6 Arrays and Lists.exe
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\bin\Debug\Section 6 Arrays and Lists.pdb
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\obj\Debug\Section 6 Arrays and Lists.csprojResolveAssemblyReference.cache
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\obj\Debug\Section 6 Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\obj\Debug\Section 6 Arrays and Lists.exe
+C:\C_sharp_projects\Section 6 Arrays and Lists\Section 6 Arrays and Lists\obj\Debug\Section 6 Arrays and Lists.pdb
